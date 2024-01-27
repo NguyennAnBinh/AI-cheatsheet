@@ -1,0 +1,38 @@
+. Lĩnh vực Data và AI:
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Natural Language Processing (NLP)
+II. Big Data:
+5. Big Data
+
+Data Engineering
+Data Mining
+Data Science
+Data Visualization
+Data Warehouse
+III. Công cụ và Ngôn ngữ lập trình:
+11. Python
+
+Numpy
+Pandas
+Matlab
+SQL
+Scala
+Excel
+Git
+IV. Toán học và Thống kê:
+19. Mathematics
+
+Probability
+Statistics
+Ordinary Differential Equations
+V. Công nghệ và Công cụ khác:
+23. DevOps
+
+Docker & Kubernetes
+Linux
+Interview Questions
+VI. Hình ảnh và Đa phương tiện:
+27. Images
